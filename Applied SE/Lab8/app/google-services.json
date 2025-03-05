@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "808692508503",
+    "firebase_url": "https://appliedseng-lab8-default-rtdb.firebaseio.com",
+    "project_id": "appliedseng-lab8",
+    "storage_bucket": "appliedseng-lab8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808692508503:android:262c5d72127d97aa380012",
+        "android_client_info": {
+          "package_name": "com.example.lab8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsEULyJYfay4YUbSmo8mpnAFtiVEBwQBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808692508503:android:5eecf03636741d20380012",
+        "android_client_info": {
+          "package_name": "com.example.lab8_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsEULyJYfay4YUbSmo8mpnAFtiVEBwQBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
